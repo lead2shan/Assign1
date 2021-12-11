@@ -1,0 +1,3 @@
+Output file
+This is ssignment1:
+Hello Wolrd!!!
